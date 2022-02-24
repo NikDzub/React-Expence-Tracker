@@ -1,0 +1,18 @@
+.ex-item {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 200px;
+  border: 2px solid black;
+  border-top: 5px solid black;
+}
+.ex-item__title {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+.ex-item__price {
+  font-weight: 600;
+}
+li {
+  list-style: none;
+}
